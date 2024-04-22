@@ -1,0 +1,36 @@
+.save A0
+A0 00000
+A0 11111
+A0 22222
+A0 33333
+A0 44444
+.end
+.print A0
+.print A0
+.save A1
+A1 00000
+A1 11111
+A1 22222
+A1 33333
+A1 44444
+.end
+.print A1
+.print A1
+.save A2
+A2 00000
+A2 11111
+A2 22222
+A2 33333
+A2 44444
+.end
+.print A2
+.print A2
+.save A3
+A3 00000
+A3 11111
+A3 22222
+A3 33333
+A3 44444
+.end
+.print A3
+.print A3
